@@ -20,9 +20,6 @@ Understanding and applying design patterns is a crucial aspect of writing mainta
 The following design patterns are currently implemented:
 
 - [Singleton Pattern](#singleton-pattern)
-- [Observer Pattern](#observer-pattern)
-- [Factory Method Pattern](#factory-method-pattern)
-- [... (Add more as you implement)]
 
 ## Getting Started
 
@@ -30,10 +27,10 @@ To get started with the code examples, follow these steps:
 
 1. Clone the repository:
 
-   ````bash
-   git clone https://github.com/your-username/design-patterns-playground.git```
+   ```bash
+   git clone https://github.com/your-username/design-patterns-playground.git
 
-   ````
+   ```
 
 2. Explore the implemented design patterns in each respective directory.
 
