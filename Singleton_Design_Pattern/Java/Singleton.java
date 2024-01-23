@@ -19,3 +19,5 @@ public class Singleton{
     }
 
 }
+
+// TODO: Write code for a real-world use case

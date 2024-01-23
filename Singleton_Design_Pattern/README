@@ -5,5 +5,6 @@ Singleton is a creational design pattern, which ensures that only one object of 
 Instance of the object cannot be created, so hide the constructor.
 Client can access the instance through a function of the class, so the function should be static.
 The function will create the instance and store it in a static member variable of the class.
+For eager loading, the instance can be initialized when the class is created.
 -----------------------------------------------------------------------------------------------------------------------------------------
 '''
