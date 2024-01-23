@@ -1,0 +1,5 @@
+Steps to run typescript:
+1. Install nodejs
+2. Install typescript globally
+3. Run the command (tsc Singleton.ts)
+4. Run the command (node Singleton.js)
