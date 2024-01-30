@@ -19,7 +19,8 @@ Understanding and applying design patterns is a crucial aspect of writing mainta
 
 The following design patterns are currently implemented:
 
-- [Singleton Pattern](#singleton-pattern)
+- [Singleton Pattern](https://github.com/rugit/SD-LLD/tree/main/Singleton_Design_Pattern)
+- [Builder Pattern](https://github.com/rugit/SD-LLD/tree/main/Builder_Pattern)
 
 ## Getting Started
 
