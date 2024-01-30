@@ -1,6 +1,6 @@
 # Singleton Design Pattern
 
-![Singleton Pattern](singleton_pattern.png)
+![Singleton Pattern](https://refactoring.guru/images/patterns/diagrams/singleton/structure-en.png)
 
 ## Overview
 
