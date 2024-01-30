@@ -1,0 +1,12 @@
+'''
+Builder
+-----------------------------------------------------------------------------------------------------------------------------------------
+Builder is a creational design pattern, which allows constructing complex objects step by step.
+It’s especially useful when you need to create an object with lots of possible configuration options.
+
+Identification: 
+    The Builder pattern can be recognized in a class, which has a single creation method and several methods to configure the resulting object.
+Director:
+    Extracting a series of calls to the builder steps to construct a product into a separate class called director. The director class defines the order in which to execute the building steps, while the builder provides the implementation for those steps.
+-----------------------------------------------------------------------------------------------------------------------------------------
+'''
